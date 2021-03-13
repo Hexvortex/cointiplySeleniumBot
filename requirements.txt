@@ -1,0 +1,9 @@
+numpy==1.19.4
+keyring==22.3.0
+selenium==4.0.0a1
+backports.statistics==0.1.0
+Cython==0.29.22
+ipaddr==2.2.0
+mypy_extensions==0.4.3
+ordereddict==1.1
+wincertstore==0.2
