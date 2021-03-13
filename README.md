@@ -14,7 +14,7 @@ https://github.com/mozilla/geckodriver/releases/tag/v0.29.0
 ```
 Note: Download google chrome webDriver if you are using google chrome.Personally i haven't test it on google chrome.
 
-### Iinstallation
+### Installation 
 
 Install libraries:
 
