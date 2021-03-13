@@ -1,12 +1,48 @@
+
 # cointiplySeleniumBot
 
-This bot only works on contiply games  http://ptc.cointiply.com/games
-Setps to run this bot:
-Download  mozilla geckodriver from https://github.com/mozilla/geckodriver/releases/tag/v0.29.0 or if your are using google chrome download google chrome webDriver. Personally i haven't test it on google chrome.
-export path of geckodriver using : "export PATH=$PATH:/path/to/geckodriver"
-Download libraries using -> pip install -r requirements.txt
-Run the script using terminal using -> python3 cointiplybot.py
-Login in using cookie or email,password within 50s
-After login it will click on games and watch ads 
 
-Note: Dont run this script for more than 600 times  in a day or your account will get banned.
+This bot automatically watches ads for you in cointiply games section.(http://ptc.cointiply.com/games)
+
+
+### Prerequisites
+
+Download Mozila webDriver(geckodriver)
+
+```
+https://github.com/mozilla/geckodriver/releases/tag/v0.29.0
+```
+Note: Download google chrome webDriver if you are using google chrome.Personally i haven't test it on google chrome.
+
+### Installing
+
+Install libraries:
+
+```
+pip install -r requirements.txt
+```
+
+Export path of geckodriver using terminal:
+
+```
+export PATH=$PATH:/path/to/geckodriver
+```
+
+## Running the script
+
+Run
+
+```
+python3 cointiplybot.py
+```
+
+## Built With
+
+* [Python]
+
+## Tested on 
+
+Linux
+
+## Note: Don't run this script for more than 600 times in a day or your account will get banned.
+
