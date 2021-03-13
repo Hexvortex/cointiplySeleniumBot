@@ -37,8 +37,10 @@ python3 cointiplybot.py
 ```
 Login
 
+```
 Either Login in using cookie editor(https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/) or using email and password.As you like
 
+```
 [Login within 50s]
 
 
