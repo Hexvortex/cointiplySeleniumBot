@@ -19,7 +19,7 @@ Note: Download google chrome webDriver if you are using google chrome.Personally
 Install libraries:
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Export path of geckodriver using terminal:
