@@ -14,7 +14,7 @@ https://github.com/mozilla/geckodriver/releases/tag/v0.29.0
 ```
 Note: Download google chrome webDriver if you are using google chrome.Personally i haven't test it on google chrome.
 
-### Installing
+### Iinstallation
 
 Install libraries:
 
@@ -28,7 +28,7 @@ Export path of geckodriver using terminal:
 export PATH=$PATH:/path/to/geckodriver
 ```
 
-## Running the script
+## Running script
 
 Run
 
